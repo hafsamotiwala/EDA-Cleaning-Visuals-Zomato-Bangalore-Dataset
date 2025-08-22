@@ -1,5 +1,6 @@
 # EDA-Cleaning-Visuals-Zomato-Bangalore-Dataset
-This project involves Zomato Bangalore restaurant data analyzed. It includes data cleaning, EDA with stats &amp; visuals (histograms, bar charts) on ratings, cuisines, pricing. Key findings in Markdowns
+This project involves Zomato Bangalore restaurant data analyzed. It includes data cleaning, EDA with stats & visuals (histograms, bar charts) on ratings, cuisines, pricing. Key findings in Markdowns
+
 SUMMARY of Zomato Bangalore Restaurants Analysis: Key Findings and Business Recommendations
 After conducting a thorough exploratory data analysis (EDA) on the Zomato Bangalore Restaurants Dataset (43,854 records), we’ve transformed raw data into actionable insights using Pandas, NumPy, Matplotlib, and Seaborn in a Colab notebook. Starting with data cleaning—converting "3.5/5" ratings to numeric values and handling 7,775 missing entries—we’ve uncovered trends to guide Zomato’s strategy.
 
